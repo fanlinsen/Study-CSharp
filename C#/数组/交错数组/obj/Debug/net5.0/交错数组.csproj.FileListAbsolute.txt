@@ -1,0 +1,16 @@
+C:\Users\17130\Desktop\my text\C#\数组\交错数组\bin\Debug\net5.0\交错数组.exe
+C:\Users\17130\Desktop\my text\C#\数组\交错数组\bin\Debug\net5.0\交错数组.deps.json
+C:\Users\17130\Desktop\my text\C#\数组\交错数组\bin\Debug\net5.0\交错数组.runtimeconfig.json
+C:\Users\17130\Desktop\my text\C#\数组\交错数组\bin\Debug\net5.0\交错数组.runtimeconfig.dev.json
+C:\Users\17130\Desktop\my text\C#\数组\交错数组\bin\Debug\net5.0\交错数组.dll
+C:\Users\17130\Desktop\my text\C#\数组\交错数组\bin\Debug\net5.0\ref\交错数组.dll
+C:\Users\17130\Desktop\my text\C#\数组\交错数组\bin\Debug\net5.0\交错数组.pdb
+C:\Users\17130\Desktop\my text\C#\数组\交错数组\obj\Debug\net5.0\交错数组.csproj.AssemblyReference.cache
+C:\Users\17130\Desktop\my text\C#\数组\交错数组\obj\Debug\net5.0\交错数组.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17130\Desktop\my text\C#\数组\交错数组\obj\Debug\net5.0\交错数组.AssemblyInfoInputs.cache
+C:\Users\17130\Desktop\my text\C#\数组\交错数组\obj\Debug\net5.0\交错数组.AssemblyInfo.cs
+C:\Users\17130\Desktop\my text\C#\数组\交错数组\obj\Debug\net5.0\交错数组.csproj.CoreCompileInputs.cache
+C:\Users\17130\Desktop\my text\C#\数组\交错数组\obj\Debug\net5.0\交错数组.dll
+C:\Users\17130\Desktop\my text\C#\数组\交错数组\obj\Debug\net5.0\ref\交错数组.dll
+C:\Users\17130\Desktop\my text\C#\数组\交错数组\obj\Debug\net5.0\交错数组.pdb
+C:\Users\17130\Desktop\my text\C#\数组\交错数组\obj\Debug\net5.0\交错数组.genruntimeconfig.cache

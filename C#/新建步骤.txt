@@ -1,0 +1,8 @@
+pc下生成
+1：首先，新建一个文件夹，用于存放
+2：按下win+R键，然后输入cmd
+3：打开终端后，输入dotnet new console -o D:\c#cmd测试\myceshi001（即创建文件夹的路径）
+4：输入 dotnet run 运行程序
+vscode下生成
+1：新建文件夹，用vscode打开文件夹，然后打开终端
+2：输入dotnet new console。

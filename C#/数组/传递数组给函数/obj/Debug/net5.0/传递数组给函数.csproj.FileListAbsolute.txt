@@ -1,0 +1,16 @@
+C:\Users\17130\Desktop\my text\C#\数组\传递数组给函数\bin\Debug\net5.0\传递数组给函数.exe
+C:\Users\17130\Desktop\my text\C#\数组\传递数组给函数\bin\Debug\net5.0\传递数组给函数.deps.json
+C:\Users\17130\Desktop\my text\C#\数组\传递数组给函数\bin\Debug\net5.0\传递数组给函数.runtimeconfig.json
+C:\Users\17130\Desktop\my text\C#\数组\传递数组给函数\bin\Debug\net5.0\传递数组给函数.runtimeconfig.dev.json
+C:\Users\17130\Desktop\my text\C#\数组\传递数组给函数\bin\Debug\net5.0\传递数组给函数.dll
+C:\Users\17130\Desktop\my text\C#\数组\传递数组给函数\bin\Debug\net5.0\ref\传递数组给函数.dll
+C:\Users\17130\Desktop\my text\C#\数组\传递数组给函数\bin\Debug\net5.0\传递数组给函数.pdb
+C:\Users\17130\Desktop\my text\C#\数组\传递数组给函数\obj\Debug\net5.0\传递数组给函数.csproj.AssemblyReference.cache
+C:\Users\17130\Desktop\my text\C#\数组\传递数组给函数\obj\Debug\net5.0\传递数组给函数.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17130\Desktop\my text\C#\数组\传递数组给函数\obj\Debug\net5.0\传递数组给函数.AssemblyInfoInputs.cache
+C:\Users\17130\Desktop\my text\C#\数组\传递数组给函数\obj\Debug\net5.0\传递数组给函数.AssemblyInfo.cs
+C:\Users\17130\Desktop\my text\C#\数组\传递数组给函数\obj\Debug\net5.0\传递数组给函数.csproj.CoreCompileInputs.cache
+C:\Users\17130\Desktop\my text\C#\数组\传递数组给函数\obj\Debug\net5.0\传递数组给函数.dll
+C:\Users\17130\Desktop\my text\C#\数组\传递数组给函数\obj\Debug\net5.0\ref\传递数组给函数.dll
+C:\Users\17130\Desktop\my text\C#\数组\传递数组给函数\obj\Debug\net5.0\传递数组给函数.pdb
+C:\Users\17130\Desktop\my text\C#\数组\传递数组给函数\obj\Debug\net5.0\传递数组给函数.genruntimeconfig.cache

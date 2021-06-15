@@ -1,0 +1,6 @@
+Private 访问修饰符允许一个类将其成员变量和成员函数对其他的函数和对象进行隐藏。只有同一个类中的函数可以访问它的私有成员。即使是类的实例也不能访问它的私有成员。
+在上面的实例中，成员变量 length 和 width 被声明为 private，所以它们不能被函数 Main() 访问。
+
+成员函数 AcceptDetails() 和 Display() 可以访问这些变量。
+
+由于成员函数 AcceptDetails() 和 Display() 被声明为 public，所以它们可以被 Main() 使用 Rectangle 类的实例 r 访问。

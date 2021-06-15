@@ -1,0 +1,16 @@
+C:\Users\17130\Desktop\my text\C#\封装\public\bin\Debug\net5.0\public.exe
+C:\Users\17130\Desktop\my text\C#\封装\public\bin\Debug\net5.0\public.deps.json
+C:\Users\17130\Desktop\my text\C#\封装\public\bin\Debug\net5.0\public.runtimeconfig.json
+C:\Users\17130\Desktop\my text\C#\封装\public\bin\Debug\net5.0\public.runtimeconfig.dev.json
+C:\Users\17130\Desktop\my text\C#\封装\public\bin\Debug\net5.0\public.dll
+C:\Users\17130\Desktop\my text\C#\封装\public\bin\Debug\net5.0\ref\public.dll
+C:\Users\17130\Desktop\my text\C#\封装\public\bin\Debug\net5.0\public.pdb
+C:\Users\17130\Desktop\my text\C#\封装\public\obj\Debug\net5.0\public.csproj.AssemblyReference.cache
+C:\Users\17130\Desktop\my text\C#\封装\public\obj\Debug\net5.0\public.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17130\Desktop\my text\C#\封装\public\obj\Debug\net5.0\public.AssemblyInfoInputs.cache
+C:\Users\17130\Desktop\my text\C#\封装\public\obj\Debug\net5.0\public.AssemblyInfo.cs
+C:\Users\17130\Desktop\my text\C#\封装\public\obj\Debug\net5.0\public.csproj.CoreCompileInputs.cache
+C:\Users\17130\Desktop\my text\C#\封装\public\obj\Debug\net5.0\public.dll
+C:\Users\17130\Desktop\my text\C#\封装\public\obj\Debug\net5.0\ref\public.dll
+C:\Users\17130\Desktop\my text\C#\封装\public\obj\Debug\net5.0\public.pdb
+C:\Users\17130\Desktop\my text\C#\封装\public\obj\Debug\net5.0\public.genruntimeconfig.cache
